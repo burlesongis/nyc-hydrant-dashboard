@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard that explores fire hydrant density across New York City's residential neighborhoods. Filter by borough and density range, and the map, summary metrics, top-15 chart and data table all update together.
 
-**Live app:** _add the Streamlit Community Cloud link here after deploying_
+**Live app:** https://nyc-hydrant-dashboard-bgis.streamlit.app/ (free Streamlit Community Cloud hosting; if it has been idle, it may take a moment to wake up)
 
 ![Dashboard with all boroughs selected: metrics, map, top-15 chart and data table](images/dashboard-all-boroughs.jpg)
 
