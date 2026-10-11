@@ -227,3 +227,7 @@ st.sidebar.markdown(
     "and [Hydrants](https://data.cityofnewyork.us/Environment/Hydrants/5bgh-vtsn)"
 )
 st.sidebar.markdown("**Course:** Modern GIS Accelerator — Lesson 3.5")
+st.sidebar.markdown(
+    "**Companion project:** [Interactive hydrant map (MapLibre)]"
+    "(https://burlesongis.github.io/nyc-hydrant-map/)"
+)
